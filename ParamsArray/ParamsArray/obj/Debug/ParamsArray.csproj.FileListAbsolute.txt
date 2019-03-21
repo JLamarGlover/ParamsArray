@@ -1,0 +1,7 @@
+C:\Users\LamarGlover\Desktop\Microsoft Press\VCSBS\Chapter 11\ParamsArray\ParamsArray\bin\Debug\ParamsArray.exe.config
+C:\Users\LamarGlover\Desktop\Microsoft Press\VCSBS\Chapter 11\ParamsArray\ParamsArray\bin\Debug\ParamsArray.exe
+C:\Users\LamarGlover\Desktop\Microsoft Press\VCSBS\Chapter 11\ParamsArray\ParamsArray\bin\Debug\ParamsArray.pdb
+C:\Users\LamarGlover\Desktop\Microsoft Press\VCSBS\Chapter 11\ParamsArray\ParamsArray\obj\Debug\ParamsArray.csprojAssemblyReference.cache
+C:\Users\LamarGlover\Desktop\Microsoft Press\VCSBS\Chapter 11\ParamsArray\ParamsArray\obj\Debug\ParamsArray.csproj.CoreCompileInputs.cache
+C:\Users\LamarGlover\Desktop\Microsoft Press\VCSBS\Chapter 11\ParamsArray\ParamsArray\obj\Debug\ParamsArray.exe
+C:\Users\LamarGlover\Desktop\Microsoft Press\VCSBS\Chapter 11\ParamsArray\ParamsArray\obj\Debug\ParamsArray.pdb
